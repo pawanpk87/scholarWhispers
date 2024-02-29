@@ -1,0 +1,11 @@
+.tabItemCss {
+  box-shadow: 0px 0.9px 22.7px rgba(255, 255, 255, 0.4),
+    0.1px 2.4px 44.1px rgba(0, 0, 0, 0.175),
+    0.3px 5.7px 75.5px rgba(0, 0, 0, 0.228), 1px 19px 169px rgba(0, 0, 0, 0.35);
+}
+
+.tabItemCss:hover {
+  box-shadow: 0px 0.9px 22.7px rgba(255, 255, 255, 0.8),
+    0.1px 2.4px 44.1px rgba(0, 0, 0, 0.175),
+    0.3px 5.7px 75.5px rgba(0, 0, 0, 0.228), 1px 19px 169px rgba(0, 0, 0, 0.35);
+}
